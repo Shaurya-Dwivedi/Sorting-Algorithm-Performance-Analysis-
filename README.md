@@ -6,3 +6,10 @@
 # Project Report
 
 [View PDF](./Experimental_Results__Analysis_of_Sorting_Algorithm_Processing_Time.pdf)
+
+#Team Members
+- Shaurya Dwivedi
+- Sai Akshar Tadimeti
+- Prisha Shah
+- Rupansh Soni
+- Sayyed Hamza Ali
